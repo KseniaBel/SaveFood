@@ -1,0 +1,1 @@
+https://api.edamam.com/search?app_id=bf072c88&app_key=780c0848d34138da4cffc716ef86c22f&q=chicken tomato&from=0&to=1000
